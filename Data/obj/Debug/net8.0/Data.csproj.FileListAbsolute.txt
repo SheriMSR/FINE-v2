@@ -1,0 +1,15 @@
+D:\RepoCode\BE\FINE-v2\Data\bin\Debug\net8.0\Data.deps.json
+D:\RepoCode\BE\FINE-v2\Data\bin\Debug\net8.0\Data.dll
+D:\RepoCode\BE\FINE-v2\Data\bin\Debug\net8.0\Data.pdb
+D:\RepoCode\BE\FINE-v2\Data\bin\Debug\net8.0\AppCore.dll
+D:\RepoCode\BE\FINE-v2\Data\bin\Debug\net8.0\AppCore.pdb
+D:\RepoCode\BE\FINE-v2\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+D:\RepoCode\BE\FINE-v2\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepoCode\BE\FINE-v2\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+D:\RepoCode\BE\FINE-v2\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+D:\RepoCode\BE\FINE-v2\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+D:\RepoCode\BE\FINE-v2\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+D:\RepoCode\BE\FINE-v2\Data\obj\Debug\net8.0\Data.dll
+D:\RepoCode\BE\FINE-v2\Data\obj\Debug\net8.0\refint\Data.dll
+D:\RepoCode\BE\FINE-v2\Data\obj\Debug\net8.0\Data.pdb
+D:\RepoCode\BE\FINE-v2\Data\obj\Debug\net8.0\ref\Data.dll

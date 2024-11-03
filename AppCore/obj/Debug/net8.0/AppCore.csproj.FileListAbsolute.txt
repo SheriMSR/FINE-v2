@@ -1,0 +1,12 @@
+D:\RepoCode\BE\FINE-v2\AppCore\bin\Debug\net8.0\AppCore.deps.json
+D:\RepoCode\BE\FINE-v2\AppCore\bin\Debug\net8.0\AppCore.dll
+D:\RepoCode\BE\FINE-v2\AppCore\bin\Debug\net8.0\AppCore.pdb
+D:\RepoCode\BE\FINE-v2\AppCore\obj\Debug\net8.0\AppCore.csproj.AssemblyReference.cache
+D:\RepoCode\BE\FINE-v2\AppCore\obj\Debug\net8.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepoCode\BE\FINE-v2\AppCore\obj\Debug\net8.0\AppCore.AssemblyInfoInputs.cache
+D:\RepoCode\BE\FINE-v2\AppCore\obj\Debug\net8.0\AppCore.AssemblyInfo.cs
+D:\RepoCode\BE\FINE-v2\AppCore\obj\Debug\net8.0\AppCore.csproj.CoreCompileInputs.cache
+D:\RepoCode\BE\FINE-v2\AppCore\obj\Debug\net8.0\AppCore.dll
+D:\RepoCode\BE\FINE-v2\AppCore\obj\Debug\net8.0\refint\AppCore.dll
+D:\RepoCode\BE\FINE-v2\AppCore\obj\Debug\net8.0\AppCore.pdb
+D:\RepoCode\BE\FINE-v2\AppCore\obj\Debug\net8.0\ref\AppCore.dll
